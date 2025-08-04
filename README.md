@@ -72,3 +72,14 @@ Clone o repositório:
 ```bash
 git clone https://github.com/864742710/sistema-gestao-vendas.git
 cd sistema-gestao-vendas
+## 📬 Contato
+
+Caso tenha dúvidas, sugestões ou interesse em parceria, entre em contato:
+
+- 👤 **Imércio Gaspar Ngale**
+- 📍 Massinga,  Inhambane, Moçambique
+- 📧 Email: [imerciogasparngale0@gmail.com](mailto:imerciogasparngale0@gmail.com)
+- 💼 GitHub: [github.com/864742710](https://github.com/864742710)
+- 🔗 LinkedIn: [linkedin.com/in/imercio-gaspar-ngale-12a207236](https://www.linkedin.com/in/imercio-gaspar-ngale-12a207236)
+- 📱 WhatsApp: [+258 84 474 2710](https://wa.me/258844742710)
+
